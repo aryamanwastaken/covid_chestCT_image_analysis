@@ -1,4 +1,4 @@
-# 621GroupCode
+
 registration and segmentation code
 
 
